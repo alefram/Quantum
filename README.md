@@ -1,2 +1,2 @@
 # QuantumHelloWorld
-quantum experiment using qiskit
+quantum experiment for fun
