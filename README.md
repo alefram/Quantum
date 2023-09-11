@@ -1,2 +1,2 @@
-# QuantumHelloWorld
-quantum experiment for fun
+# Quantum
+quantum computing experiment for fun
